@@ -8,6 +8,8 @@ In this project, I aim to develop a Next.js application using the app router. My
 - **`Supabase user login`**
 - **`Tailwind CSS`**
 - - **`heroicons`**
+- **`loading.js`**
+- **`React Suspense`**
 - **`...`**
 
 ## 🚀 Getting Started
