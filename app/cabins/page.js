@@ -1,3 +1,5 @@
+import CabinCard from '@/app/_components/CabinCard';
+
 export const metadata = {
   title: 'Cabins',
 };
