@@ -3,6 +3,7 @@
 In this project, I aim to develop a Next.js application using the app router. My goal is to explore new technologies and revisit concepts I'm already familiar with.
 
 - **`Next.js`**
+- - **`loading.js`**
 - - **`generateMetadata()`**
 - - **`generateStaticParams()`**
 - - **`static site generation`**
@@ -11,12 +12,12 @@ In this project, I aim to develop a Next.js application using the app router. My
 - - - **`ISR`**
 - - - **`revalidate`**
 - - **`client component: "use client"`**
+- - **`usePathname()`**
 - **`Supabase, tables, relationship between tables, security policies, connecting supabase to app`**
 - **`Supabase image upload`**
 - **`Supabase user login`**
 - **`Tailwind CSS`**
 - - **`heroicons`**
-- **`loading.js`**
 - **`React Suspense`**
 - **`...`**
 
