@@ -7,6 +7,9 @@ In this project, I aim to develop a Next.js application using the app router. My
 - - **`generateStaticParams()`**
 - - **`static site generation`**
 - - **`static export`**
+- - **`caching`**
+- - - **`ISR`**
+- - - **`revalidate`**
 - **`Supabase, tables, relationship between tables, security policies, connecting supabase to app`**
 - **`Supabase image upload`**
 - **`Supabase user login`**
