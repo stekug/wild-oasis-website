@@ -14,6 +14,8 @@ In this project, I aim to develop a Next.js application using the app router. My
 - - **`client component: "use client"`**
 - - **`usePathname()`**
 - - **`searchParams`**
+- - - **`URLSearchParams`**
+- - **`useRouter()`**
 - **`Supabase, tables, relationship between tables, security policies, connecting supabase to app`**
 - **`Supabase image upload`**
 - **`Supabase user login`**
