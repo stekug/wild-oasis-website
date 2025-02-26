@@ -9,6 +9,12 @@ const nextConfig = {
         pathname: '/storage/v1/object/public/cabin-images/**',
         search: '',
       },
+      {
+        protocol: 'https',
+        hostname: '*.googleusercontent.com',
+        port: '',
+        pathname: '**',
+      },
     ],
   },
   // output: 'export',
