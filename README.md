@@ -21,6 +21,7 @@ In this project, I aim to develop a Next.js application using the app router. My
   - **`Auth.js`**
     - **`Authentication`**
     - **`Authorization`**
+    - **`Middleware`**
 - **`Supabase image upload`**
 - **`Supabase user login`**
 - **`Tailwind CSS`**
